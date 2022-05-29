@@ -1,0 +1,14 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: rebeccapurple;  /*color para el titulo*/
+}
+
+p {
+    color: azure;  /*color para el parrafo*/
+}
